@@ -28,7 +28,7 @@ Key objectives include:
 
 ## 🧠 GenAI Prompt Used
 
-"Suggest a predictive modeling approach for credit delinquency using features like income, credit score, and missed payments. Explain model choice and evaluation metrics."
+"You are an expert data scientist specializing in credit risk modeling. Suggest a structured predictive modeling approach to identify credit delinquency using features such as income, credit score, repayment history, and missed payments. Clearly justify the choice of algorithm(s) (e.g., Logistic Regression, Decision Trees, or Ensemble Models) based on interpretability and performance. Provide a step-by-step plan covering data preprocessing, feature engineering, model training, and validation. Finally, recommend appropriate evaluation metrics (e.g., AUC, Precision-Recall, F1-score) to assess the model, and highlight how to ensure fairness, transparency, and explainability in the predictions."
 
 
 ---
